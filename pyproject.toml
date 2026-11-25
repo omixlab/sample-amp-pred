@@ -31,7 +31,6 @@ dev = ["pytest>=7"]
 
 [project.urls]
 Homepage = "https://sample-database.org"
-Source = "https://github.com/omixlab/sample-amp-pred"
 
 [project.scripts]
 sample-amp-pred = "sample_amp_pred.cli:main"
