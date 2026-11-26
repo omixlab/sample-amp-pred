@@ -34,7 +34,7 @@ list, not arbitrary new sequences.
 ```bash
 pip install .
 # or, once published:
-pip install sample-amp-pred
+pip install git@github.com:omixlab/sample-amp-pred.git
 ```
 
 Requires Python ≥ 3.9. Pulls in `numpy`, `scikit-learn`, `xgboost`, `rdkit`, `peptides`, and
