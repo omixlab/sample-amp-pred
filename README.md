@@ -1,7 +1,7 @@
 # sample-amp-pred
 
 A small, offline command-line tool that predicts general antibacterial activity for peptide
-sequences using the classifier served by [sAMPle](https://sample-database.org), a knowledgebase
+sequences using the classifier served by [sAMPle](https://sample-database.com.br), a knowledgebase
 and machine-learning platform for bioactive peptides.
 
 The trained model is bundled in this repository as a plain artifact
